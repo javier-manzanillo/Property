@@ -2,8 +2,8 @@
   border-color: red;
 }
 
-.error-block{
-  color:red;
+.error-block {
+  color: red;
 }
 
 .btn-group > label[ng-reflect-btn-radio] {
@@ -20,4 +20,8 @@
   height: 42px;
   padding: 4px 10px !important;
   background-color: #007bff !important;
+}
+
+.card-title {
+  color: #0069d9;
 }

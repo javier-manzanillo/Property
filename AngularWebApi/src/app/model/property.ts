@@ -22,7 +22,7 @@ export class Property implements IPropertyBase {
   Gated?: number;
   Maintenance?: number;
   Possession?: string;
-  Image?: string;
+  img?: string;
   Description?: string;
   PostedOn: string;
   PostedBy: number;
